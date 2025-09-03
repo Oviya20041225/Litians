@@ -1,2 +1,3 @@
 # Litians
-for group working in the topic of GEN AI 
+for group working in the topic of GEN AI
+derick paithiyakaaran
